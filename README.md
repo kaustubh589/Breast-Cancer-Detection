@@ -28,6 +28,14 @@ Overall, the combination of these features allows the model to accurately detect
 # Tech Used
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
       
+# Details about the Dataset
+Data Set Characteristics: Multivariate Attribute Characteristics: Integer Associated Tasks: Classification Number of instances: 699 Number of attributes: 10 Area: Life
+
+# Attribute Information
+Sample code number: id number Clump Thickness: 1 - 10 Uniformity of Cell Size: 1 - 10 Uniformity of Cell Shape: 1 - 10 Marginal Adhesion: 1 - 10 Single Epithelial Cell Size: 1 - 10 Bare Nuclei: 1 - 10 Bland Chromatin: 1 - 10 Normal Nucleoli: 1 - 10 Mitoses: 1 - 10 Class: (2 for benign, 4 for malignant)
+
+# Class Distribution
+Benign: 458 (65.5%) Malignant: 241 (34.5%)
 
 <!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
     

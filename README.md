@@ -1,5 +1,5 @@
 <div align="center">
-      <h1> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fsimple-ai-breast-cancer-detection-machine-learning-juan-luna-lama&psig=AOvVaw2hTNxSCXGLOSwD5SoVG0_f&ust=1682019262243000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJjs-5XYtv4CFQAAAAAdAAAAABAF" width="80px"><br/>Breast-Cancer-Detection</h1>
+      <h1><br/>Breast-Cancer-Detection</h1>
      </div>
 
 
